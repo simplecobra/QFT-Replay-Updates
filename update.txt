@@ -5,5 +5,5 @@ ea=QFT_Replay_Simulator_v2.99.ex5
 ea_sha=52FA081A5446C167779E7DD25004AF88D59C60F15F793A5DBED105241974576A
 dll=QFTSimUI_v2.99.dll
 dll_sha=D45BF4714E7DC474E208FB291CAEF296464C7F92F0DD2657986305A3A8E6197D
-notes=NEW: RISK IN $ - lot size is calculated automatically|Move the SL line: lot adjusts, loss never above your risk|Import CSV: use M1 data from HistData / Dukascopy|Tick download with clear error messages|Visual SL/TP 5/10 pips for currencies + f
-sig=65D9420164A74B30
+notes=Improvements and fixes
+sig=0D12D7F949559B24
