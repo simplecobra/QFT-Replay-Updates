@@ -1,9 +1,9 @@
 QFT-UPDATE 1
-version=3.00
-date=2026.10.06
-ea=QFT_Replay_Simulator_v3.00.ex5
-ea_sha=2603A5174A221F389F5A6D9F5B0B7C89048ACA90FD793CFDEC63454118A20EE5
-dll=QFTSimUI_v3.00.dll
-dll_sha=E62A7FAFAA8EBBC580FEA584F32D4E554964F0A3FF9DAD198B8679C7FEFF5688
-notes=NEW: PROP FIRM CHALLENGE MODE (target, daily, max loss)|NEW: Pro report - journal, streaks, money plan, charts|R-multiple statistics + Monte Carlo risk test|Keyboard shortcuts: Space, N/P, B/S, +/-|Online license check + fixes
-sig=E175DA4DE3643154
+version=3.02
+date=2026.10.18
+ea=QFT_Replay_Simulator_v3.02.ex5
+ea_sha=4A56FD35D1498BBEB3A985A2FD1E5130D337BCA1BC825CFAEAAC5EE7447CD441
+dll=QFTSimUI_v3.02.dll
+dll_sha=609D36AE4DCEDD6FAC7BAF2056E4EB53AFFCDA65F238C74E3F3D38C00003DC51
+notes=Improvements and fixes
+sig=0CEAF6FFF87CC488
