@@ -1,9 +1,9 @@
 QFT-UPDATE 1
-version=3.03
-date=2026.10.23
-ea=QFT_Replay_Simulator_v3.03.ex5
-ea_sha=194C22DCA4399D34BB3FD58AF61CCF1A22381452DF12F941906FA00F9031187B
-dll=QFTSimUI_v3.03.dll
-dll_sha=2F764F624994F9164E161D39C592682AC452A9868D8B26C99AAE33AA5605B681
-notes=Improvements and fixes
-sig=4D16D1CD3A835733
+version=3.04
+date=2026.10.27
+ea=QFT_Replay_Simulator_v3.04.ex5
+ea_sha=8A31022BEA68FD78A5BA49648AF92A3CD9ABE063523A7A1E5A8AA2B30E3A243B
+dll=QFTSimUI_v3.04.dll
+dll_sha=BDA494C94DC7C4FE0967716F9B855DFB9BBD744DCBFA9CA5C4C79366B4DA04EC
+notes=Prop Firm Challenge: start / stop it from the simulator window (Prop Firm button) at any moment|Ready challenge types: 2-Step Phase 1 / Phase 2, 1-Step, Instant, Custom|Indicators: add one on any replay chart - it appears on all charts|Save Simul
+sig=CBD2705897509F8B
