@@ -41,6 +41,7 @@ sig=<16 uppercase hex chars>
 
 - The owner writes in Roman Urdu (Urdu in Latin script); reply in Roman Urdu unless they write in English.
 - Do the work end to end without being asked step by step; ask only before irreversible or public actions (publishing a release, changing a manifest, pushing to `main`).
+- **When the owner shares an idea:** don't just carry it out. First research it, then analyze it from every angle (users, competitors, technical feasibility, cost/effort, risks, SEO/marketing impact). Then tell the owner plainly whether there is a better approach than their idea and suggest it, lay out the pros and cons of each option, and discuss it with them so they have the complete picture before deciding. The owner always wants the best possible result, not just what was literally asked.
 
 ## Owner's standing goals
 
