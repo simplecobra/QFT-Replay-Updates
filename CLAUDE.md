@@ -60,3 +60,4 @@ The owner often gets 5–7 suggestions in a chat, finishes a few, and forgets th
 - **When an item is finished**, move it to **Done / Skipped** marked `done` with the date. **When the owner says to skip/drop it**, move it there marked `skipped` with the date. Never bring done or skipped items up again.
 - Keep pending items in order of priority and group them by area (EA/indicator, website/SEO, simulator releases, other).
 - Commit and push tracker updates with the session's other work, and remind the owner to merge them so the next session sees the current list.
+- - The owner allows Claude to update `SUGGESTIONS.md` on `main` directly by running `bash scripts/push-suggestions.sh` after every change to the list. No other change may go to `main` this way.
