@@ -40,3 +40,12 @@ sig=<16 uppercase hex chars>
 ## Working with the owner
 
 - The owner writes in Roman Urdu (Urdu in Latin script); reply in Roman Urdu unless they write in English.
+- Do the work end to end without being asked step by step; ask only before irreversible or public actions (publishing a release, changing a manifest, pushing to `main`).
+
+## Owner's standing goals
+
+These apply to every task, not only when the owner mentions them.
+
+- **EAs and indicators must beat the competition.** Before designing or changing an EA or indicator, research the top ~10 competing products (features, settings, UI, pricing, reviews and complaints), then build something better than all of them. Briefly report what the competitors do and where ours is better.
+- **Website goal: Google top 5.** The owner is working to rank the website in the top 5 Google results. Any page, product or post that is added or updated on the website gets SEO done automatically, without being asked: keyword research, title and meta description, headings, URL slug, image alt text, internal links, structured data (schema.org), page speed and mobile checks, and sitemap updates.
+- **Google Search Console:** after website changes, do the Search Console steps too (submit/refresh the sitemap, request indexing for new or changed URLs, check for coverage errors). This needs Search Console access in the session; if it isn't available, say exactly which steps remain for the owner instead of skipping them silently.
