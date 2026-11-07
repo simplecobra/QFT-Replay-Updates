@@ -50,3 +50,13 @@ These apply to every task, not only when the owner mentions them.
 - **EAs and indicators must beat the competition.** Before designing or changing an EA or indicator, research the top ~10 competing products (features, settings, UI, pricing, reviews and complaints), then build something better than all of them. Briefly report what the competitors do and where ours is better.
 - **Website goal: Google top 5.** The owner is working to rank the website in the top 5 Google results. Any page, product or post that is added or updated on the website gets SEO done automatically, without being asked: keyword research, title and meta description, headings, URL slug, image alt text, internal links, structured data (schema.org), page speed and mobile checks, and sitemap updates.
 - **Google Search Console:** after website changes, do the Search Console steps too (submit/refresh the sitemap, request indexing for new or changed URLs, check for coverage errors). This needs Search Console access in the session; if it isn't available, say exactly which steps remain for the owner instead of skipping them silently.
+
+## Suggestions tracker (`SUGGESTIONS.md`)
+
+The owner often gets 5–7 suggestions in a chat, finishes a few, and forgets the rest by the next day. `SUGGESTIONS.md` is the memory for this. Keep it up to date in every session:
+
+- **At the start of every session**, read `SUGGESTIONS.md` and, before anything else, show the owner the pending items. Ask whether to continue with them, start something new, or do some now and leave others for later.
+- **Whenever you give the owner suggestions or next steps**, add each one under **Pending** with the date and a one-line description of what it involves (enough that a future session understands it without this chat).
+- **When an item is finished**, move it to **Done / Skipped** marked `done` with the date. **When the owner says to skip/drop it**, move it there marked `skipped` with the date. Never bring done or skipped items up again.
+- Keep pending items in order of priority and group them by area (EA/indicator, website/SEO, simulator releases, other).
+- Commit and push tracker updates with the session's other work, and remind the owner to merge them so the next session sees the current list.
