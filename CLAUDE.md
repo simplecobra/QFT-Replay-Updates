@@ -36,3 +36,7 @@ sig=<16 uppercase hex chars>
 - `date` uses `YYYY.MM.DD`.
 - `sig` is a signature over the manifest content produced by the author's own tooling; it changes whenever any field changes (even just `date` or `notes`). The algorithm and key are not in this repo, so **do not hand-edit any signed field** — a manifest edited here without a regenerated `sig` will be rejected by clients. Changes to manifests should come from the author's signing tool.
 - The current `notes` line in `update.txt` appears cut off mid-word, suggesting a length limit on that field; keep notes short.
+
+## Working with the owner
+
+- The owner writes in Roman Urdu (Urdu in Latin script); reply in Roman Urdu unless they write in English.
