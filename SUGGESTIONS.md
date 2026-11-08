@@ -5,6 +5,7 @@ Every suggestion Claude gives the owner is recorded here so nothing gets forgott
 ## Pending
 
 ### Simulator releases
+- 2026-11-08 — v3.05 review fixes (owner is listing mistakes; send ONE final package after all are fixed). Fixed so far in WIP: 1) red extra-symbol message cut off in New Simulation (label/group height patched in both DLLs + shorter 2-line text).
 - 2026-11-08 — Test v3.05 (multi-symbol replay, 4 symbols): owner runs New Simulation with 1–3 extra pairs on MT5 and MT4, checks trades, save/load, and reports.
 - 2026-11-08 — Release v3.05 after the test passes: What's New PDF, short "|" notes, MT4 final build, student zip, manifests signed with the owner's UpdateBuilder.
 - 2026-11-08 — Publish MT4 v3.04 (the package is ready; the owner uploads it and signs update_mt4.txt).
