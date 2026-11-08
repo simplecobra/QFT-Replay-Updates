@@ -5,5 +5,5 @@ ea=QFT_Replay_Simulator_MT4_v3.05.ex4
 ea_sha=0681719B3E458B47CD8619646A286CD7A9598A351D4AF63B4CDB6CCB634AE274
 dll=QFTSimUI_MT4_v3.05.dll
 dll_sha=C1E6EEF5DA903872E10D944786BB540E313733F6BCC970B4447CBF84E0CED0F7
-notes=Improvements and fixes
-sig=31913D7C38831A10
+notes=Extra symbols: replay up to 3 more pairs at the same time (SMT, DXY, correlation)|Trade every pair from the panel|Download missing data with one click|Smoother Prev Bar|Clear message when DLL imports are off|New DLL 3.05
+sig=AA20BBE59B8893CB
