@@ -5,9 +5,8 @@ Every suggestion Claude gives the owner is recorded here so nothing gets forgott
 ## Pending
 
 ### Simulator releases
-- 2026-11-08 — Publish v3.05 (MT5 + MT4): owner compiles, runs QFT_UpdateBuilder / QFT_UpdateBuilder_MT4 with the release notes, uploads ex5/ex4 + versioned DLLs + update.txt / update_mt4.txt (steps in RELEASE_STEPS_v3.05.txt of the PRIVATE zip). Claude then checks the raw files and signatures.
+- 2026-11-08 — Optional: re-run QFT_UpdateBuilder / _MT4 with real release notes (now "Improvements and fixes") and upload only update.txt / update_mt4.txt.
 - 2026-11-08 — Update the simulator User Guide PDF (still v2.93, 31 pages) to v3.05: Smart Panel, Prop Firm, multi-symbol, MT4.
-- 2026-11-08 — Website: update the What's new part of qaziforextips.com/simulator for v3.05 (+ SEO), after the release is live.
 
 ### EA/indicator
 - 2026-11-08 — Prev Bar faster: reuse the loaded day instead of reading the tick file again on every click.
@@ -16,10 +15,15 @@ Every suggestion Claude gives the owner is recorded here so nothing gets forgott
 - Later — Volume Profile on replay charts.
 
 ### Website/SEO
+- 2026-11-08 — Owner: Search Console → URL Inspection → Request indexing for /simulator.html and /updates.html, and resubmit sitemap.xml (API can only read status; IndexNow already sent for Bing).
+- 2026-11-08 — Simulator page: replace the two v3.05 mockup images with real MT5 screenshots of New Simulation (extra symbols) and the Market tab symbol list.
 - 2026-11-08 — SaaSHub profile: logo, demo video, and the badge on qaziforextips.com (listing approved and verified; staying free).
 
 ## Done / Skipped
 
+- 2026-11-08 — done — Website v3.05: new MT5/MT4 zips, What's new (4 pairs at once), versions, FAQ, JSON-LD, title/meta, sitemap, IndexNow.
+- 2026-11-08 — done — v3.05 published on GitHub (MT5 + MT4), verified.
+- 2026-11-08 — done — WhatsApp message for v3.05 (4 pairs at once).
 - 2026-11-08 — done — v3.05 final: tested by owner; What's New 3.05 + Features PDFs, PRIVATE zip, release steps.
 - 2026-11-08 — done — "Download missing data" (one button for all extra pairs) instead of a button per pair.
 - 2026-11-08 — done — Smooth Prev Bar, clear "Allow DLL imports" message, one simulator per terminal, "chosen twice" check.
