@@ -1,0 +1,4 @@
+QFT-CONTROL 1
+date=2026.11.08 11:48
+ABDE551BF10534D1|BLOCK||You are not eligible to use this software
+sig=C46BFC7673C60AB8
